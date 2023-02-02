@@ -17,8 +17,8 @@
 ## 🔮 Minha Stack
  Essas são algumas das tecnologias que uso no dia a dia!!!
 
-
-![visual](https://raw.githubusercontent.com/Borrus-sudo/awesome-stack/master/examples/themes/omni.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/Borrus-sudo/awesome-stack/master/examples/themes/omni.svg" width="100">
 
 
 <div align="center">
